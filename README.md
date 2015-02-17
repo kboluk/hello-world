@@ -1,3 +1,3 @@
 # hello-world
 hi guise!
-i use github now, and i cool yet?
+i use github now, am i cool yet?
